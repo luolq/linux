@@ -10,3 +10,5 @@ rm
 rmdir
 
 ssh
+
+filezilla -----scp(could only be used in linux or unix) in windows.
